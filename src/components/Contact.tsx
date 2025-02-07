@@ -164,8 +164,9 @@ const Contact = () => {
         </form>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.3409068975566!2d106.70181627508865!3d10.77198388937656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f41476fee6b%3A0x15de2e5129cc54f!2zVMOyYSBuaMOgIHTDoGkgY2jDrW5oIEJpdGV4Y28sIELhur9uIE5naMOpLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e1!3m2!1svi!2s!4v1737968115218!5m2!1svi!2s"
-          className="w-1/2 h-96 m-auto py-8"
+          className="w-1/2 h-96 m-auto py-8 mb-12"
         ></iframe>
+        <div className="h-20"></div>
       </div>
       <Footer />
     </motion.div>

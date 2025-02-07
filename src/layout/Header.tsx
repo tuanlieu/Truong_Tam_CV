@@ -1,5 +1,5 @@
 import { NavLink, Outlet } from "react-router";
-import HeaderContext from "../components/contexts/Context";
+import HeaderContext from "../contexts/Context";
 import { useContext } from "react";
 
 const Header = () => {

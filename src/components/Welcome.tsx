@@ -3,7 +3,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import { motion } from "motion/react";
 import { useContext, useEffect } from "react";
-import HeaderContext from "./contexts/Context";
+import HeaderContext from "../contexts/Context";
 import HomeFooter from "./HomeFooter";
 
 const Welcome = () => {
