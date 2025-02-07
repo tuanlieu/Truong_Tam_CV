@@ -71,7 +71,7 @@ const Portfolio = () => {
       <motion.div
         className="h-48 bg-gray-300 w-full pb-4 pt-16"
         style={{
-          backgroundImage: `url('/src/assets/banner.jpg')`,
+          backgroundImage: `https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/banner.jpg?raw=true`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
