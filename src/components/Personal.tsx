@@ -24,7 +24,7 @@ const Personal = () => {
         {archives.map(({title, description}, index) => (
           <li key={index} className="relative">
             <img
-              src={`/src/assets/arch0${index + 1}.png`}
+              src={`https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/arch0${index + 1}.png?raw=true`}
               alt={title}
               className="w-64"
             />

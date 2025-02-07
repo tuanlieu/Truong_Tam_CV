@@ -86,7 +86,7 @@ const Welcome = () => {
         </ul>
       </motion.div>
       <motion.img
-        src="/src/assets/anhPrfEdited.png"
+        src="https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/anhPrfEdited.png?raw=true"
         alt=""
         className="absolute right-64 bottom-0 w-1/3"
         initial={{ opacity: 0, bottom: "-100px" }}

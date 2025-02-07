@@ -10,7 +10,7 @@ const Portfolio = () => {
     {
       id: 1,
       type: "CODED",
-      imageUrl: "/src/assets/prj1.png",
+      imageUrl: "https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/prj1.png?raw=true",
       title: "CodeMaster",
       description:
         "A comprehensive coding platform designed to enhance programming skills through interactive challenges and real-time feedback.",
@@ -18,7 +18,7 @@ const Portfolio = () => {
     {
       id: 2,
       type: "DESIGNED",
-      imageUrl: "/src/assets/prj2.png",
+      imageUrl: "https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/prj2.png?raw=true",
       title: "DesignHub",
       description:
         "A creative design tool that empowers users to craft stunning visuals with ease, featuring a wide array of templates and customization options.",
@@ -26,7 +26,7 @@ const Portfolio = () => {
     {
       id: 3,
       type: "CODED",
-      imageUrl: "/src/assets/prj3.png",
+      imageUrl: "https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/prj3.png?raw=true",
       title: "DevConnect",
       description:
         "A collaborative coding environment that connects developers worldwide, enabling seamless project management and code sharing.",
@@ -34,7 +34,7 @@ const Portfolio = () => {
     {
       id: 4,
       type: "DESIGNED",
-      imageUrl: "/src/assets/prj4.png",
+      imageUrl: "https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/prj4.png?raw=true",
       title: "Artistry",
       description:
         "An innovative design application that transforms ideas into reality, offering advanced tools for both novice and professional designers.",
@@ -42,7 +42,7 @@ const Portfolio = () => {
     {
       id: 5,
       type: "CODED",
-      imageUrl: "/src/assets/prj5.png",
+      imageUrl: "https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/prj5.png?raw=true",
       title: "CodeCraft",
       description:
         "A dynamic coding workshop that provides hands-on experience with the latest programming languages and frameworks.",
@@ -50,7 +50,7 @@ const Portfolio = () => {
     {
       id: 6,
       type: "DESIGNED",
-      imageUrl: "/src/assets/prj6.png",
+      imageUrl: "https://github.com/tuanlieu/Truong_Tam_CV/blob/main/src/assets/prj6.png?raw=true",
       title: "DesignSphere",
       description:
         "A versatile design suite that combines intuitive interfaces with powerful features, perfect for creating professional-grade graphics.",

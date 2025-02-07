@@ -1,9 +1,4 @@
-type ExperienceInfoProps = {
-  company: string;
-  role: string;
-  duration: string;
-  description: string;
-};
+import ExperienceInfoProps from "../types/ExperienceInfoProps";
 
 const ExperienceInfo = ({company, role, duration, description} : ExperienceInfoProps) => {
   return (
